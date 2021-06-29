@@ -1,4 +1,4 @@
-# plab_rat_book
+# Paton Lab Rat Bible
 The rat book for training and monitoring behavior in the PatonLab.
 
 # Summary
