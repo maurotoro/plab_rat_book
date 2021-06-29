@@ -1,9 +1,20 @@
 # Behavior
 
+- a
+- b
+- c
+  
+1. d
+2. d
+3. g
+5. f
 ---
 
 # Intro
 
+Short descriptive comment of this whole folder.
+
+We need to be clear about why each subfolder exists.
 ---
 
 # Behavioral Boxes
